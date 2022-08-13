@@ -85,17 +85,11 @@ function Notifications() {
                 <CardTitle tag="h5">Notifications</CardTitle>
                 <p className="card-category">
                   Handcrafted by our former colleague{" "}
-                  <a
-                    target="_blank"
-                    href="https://www.instagram.com/manu.nazare/"
-                  >
+                  <a>
                     Nazare Emanuel-Ioan (Manu)
                   </a>
                   . Please checkout the{" "}
-                  <a
-                    href="https://github.com/creativetimofficial/react-notification-alert"
-                    target="_blank"
-                  >
+                  <a>
                     full documentation.
                   </a>
                 </p>

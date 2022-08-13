@@ -32,7 +32,7 @@ function Icons() {
                 <CardTitle tag="h5">100 Awesome Nucleo Icons</CardTitle>
                 <p className="card-category">
                   Handcrafted by our friends from{" "}
-                  <a href="https://nucleoapp.com/?ref=1712">NucleoApp</a>
+                  <a>NucleoApp</a>
                 </p>
               </CardHeader>
               <CardBody className="all-icons">

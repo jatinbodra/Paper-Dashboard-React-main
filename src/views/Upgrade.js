@@ -38,7 +38,7 @@ function Upgrade() {
           <Col className="ml-auto mr-auto" md="8">
             <Card className="card-upgrade">
               <CardHeader className="text-center">
-                <CardTitle tag="h4">Paper Dashboard PRO</CardTitle>
+                <CardTitle tag="h4">Paper Dashboard Pro</CardTitle>
                 <p className="card-category">
                   Are you looking for more components? Please check our Premium
                   Version of Paper Dashboard PRO.
@@ -129,8 +129,7 @@ function Upgrade() {
                         <Button
                           className="btn-round"
                           color="primary"
-                          href="https://www.creative-tim.com/product/paper-dashboard-2-pro?ref=pd-free-upgrade-live"
-                          rel="noopener noreferrer"
+                            rel="noopener noreferrer"
                           target="_blank"
                         >
                           Upgrade to PRO
